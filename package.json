@@ -1,0 +1,15 @@
+{
+  "name": "second-session",
+  "version": "1.0.0",
+  "description": "Second session of node to sf integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon -w server-fs.js"
+  },
+  "author": "Sarthak Roy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
